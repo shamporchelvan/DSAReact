@@ -1,0 +1,5 @@
+com\latambank\account\controller\AccountController.class
+com\latambank\account\AccountApplication.class
+com\latambank\account\entity\Account.class
+com\latambank\account\entity\Account$AccountBuilder.class
+com\latambank\account\repository\AccountRepository.class
